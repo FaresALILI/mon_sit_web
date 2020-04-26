@@ -3,3 +3,5 @@ tmp/*
 tmp/*.txt
 tmp/.csv
 tmp/*.doc
+tmp/*pdf
+
