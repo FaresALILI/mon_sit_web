@@ -2,3 +2,5 @@ tmp/todo.txt
 tmp/*
 tmp/*.txt
 tmp/.csv
+tmp/*pdf
+
