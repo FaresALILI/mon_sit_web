@@ -4,6 +4,5 @@ tmp/*.txt
 tmp/.csv
 tmp/*.doc
 tmp/*pdf
-*.xml
 tmp/*xls
 
